@@ -1,9 +1,8 @@
-//
-// Yami 
-//
-//
+#include <iostream>
 
 int main(int argc,char *argv[])
 {
-    // fillme
+    std::cout<<"Hello, darkness."<<std::endl;
+
+    return 0;
 }
